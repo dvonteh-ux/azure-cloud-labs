@@ -28,7 +28,7 @@ This is not just certification prep. It is a public portfolio of practical cloud
 
 | # | Lab | Azure Services Used | Status |
 |---|---|---|---|
-| 01 | [Lab 01: Hosting Static Website in Azure](./Lab01StaticWebHosting.md) | Storage Account, Blob Storage, Static Website Hosting | ✅ Complete |
+| 01 | [Lab 01: Hosting Static Website in Azure](./lab-01-static-website/README.md) | Storage Account, Blob Storage, Static Website Hosting | ✅ Complete |
 | 02 | Coming Soon | — | 🔜 |
 | 03 | Coming Soon | — | 🔜 |
 | 04 | Coming Soon | — | 🔜 |
