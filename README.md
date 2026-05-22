@@ -33,6 +33,8 @@ This is not just certification prep. It is a public portfolio of practical cloud
 | 03 | Coming Soon | — | 🔜 |
 | 04 | Coming Soon | — | 🔜 |
 | 05 | Coming Soon | — | 🔜 |
+| Bonus 01 | [Network Security & Traffic Analysis](./bonus-lab-01-Network-Security-%26-Traffic-Analysis/README.md) | Azure Firewall, VNets, NSGs, Route Tables, Network Watcher, Log Analytics, Terraform, KQL | ✅ Complete |
+
 
 > This table will be updated as each lab is completed.
 
