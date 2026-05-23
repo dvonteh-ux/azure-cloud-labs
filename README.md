@@ -29,8 +29,8 @@ This is not just certification prep. It is a public portfolio of practical cloud
 | # | Lab | Azure Services Used | Status |
 |---|---|---|---|
 | 01 | [Lab 01: Hosting Static Website in Azure](./lab-01-static-website/README.md) | Storage Account, Blob Storage, Static Website Hosting | ✅ Complete |
-| 02 | Coming Soon | — | 🔜 |
-| 03 | Coming Soon | — | 🔜 |
+| 02 | [Lab 02: Secure 2-Tier Web Application](./lab-02-secure-2-tier-web-application/README.md) | Azure VNets, Subnets, NSGs, Ubuntu VMs, SSH, Networking | ✅ Complete |
+| 03 | [Lab 03: Modernizing to PaaS & Securing Secrets](./lab-03-paas-keyvault-secrets/README.md) | Azure SQL Database, Key Vault, Managed Identity, RBAC, Azure Monitor | ✅ Complete |
 | 04 | Coming Soon | — | 🔜 |
 | 05 | Coming Soon | — | 🔜 |
 | Bonus 01 | [Network Security & Traffic Analysis](./bonus-lab-01-Network-Security-%26-Traffic-Analysis/README.md) | Azure Firewall, VNets, NSGs, Route Tables, Network Watcher, Log Analytics, Terraform, KQL | ✅ Complete |
