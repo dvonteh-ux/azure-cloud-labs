@@ -2,110 +2,148 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white)
 ![Status](https://img.shields.io/badge/Series-Active-blue?style=flat)
-![Labs](https://img.shields.io/badge/Labs%20Completed-1-brightgreen?style=flat)
+![Labs](https://img.shields.io/badge/Labs%20Completed-4-brightgreen?style=flat)
+![Bonus Labs](https://img.shields.io/badge/Bonus%20Labs-1-orange?style=flat)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
 ## About This Repository
 
-I'm D'Vonte Harris — an IT Operations and Infrastructure professional with 8+ years of hands-on experience in endpoint management, enterprise support, field support, and systems administration.
+I'm D'Vonte Harris — an IT Operations and Infrastructure professional with 8+ years of hands-on experience in endpoint management, enterprise support, field support, systems administration, networking, and infrastructure troubleshooting.
 
-This repository documents my growth from endpoint support, field infrastructure, and IT operations into cloud infrastructure. My background includes supporting users, endpoints, hardware deployments, Microsoft 365 environments, Active Directory, Intune-related workflows, AV/meeting room technology, and site-level infrastructure needs.
+This repository documents my transition from traditional IT operations and field infrastructure into cloud engineering, infrastructure automation, and secure Azure architecture design.
 
-The goal of this lab series is to build practical, documented Azure experience through hands-on projects. Each lab is designed to show what I built, how I configured it, how I validated it, and what I learned along the way.
+The goal of this lab series is to build practical, documented Azure experience through hands-on projects focused on:
+- cloud infrastructure
+- networking
+- security
+- monitoring
+- automation
+- Infrastructure-as-Code
+- troubleshooting
+- real-world validation
+
+Each lab is designed to demonstrate:
+- what was built
+- how it was configured
+- how it was validated
+- what challenges were encountered
+- how issues were resolved
 
 ---
 
 ## Why I'm Building This
 
-Much of the infrastructure I have supported throughout my career is now connected to cloud platforms, identity services, endpoint management tools, and automation workflows.
+Much of the infrastructure I have supported throughout my career now relies heavily on:
+- cloud identity
+- virtualization
+- automation
+- secure networking
+- observability
+- cloud-native services
 
-This series helps bridge my existing IT operations background with cloud infrastructure skills by focusing on real Azure services, repeatable documentation, troubleshooting, and hands-on deployment practice.
+This series bridges my existing IT Operations background with modern cloud infrastructure skills through repeatable, documented, hands-on deployment practice.
 
-This is not just certification prep. It is a public portfolio of practical cloud learning.
+This is not just certification prep.
+
+It is a public portfolio of practical cloud engineering work.
 
 ---
 
-## Lab Index
+# Lab Index
 
 | # | Lab | Azure Services Used | Status |
 |---|---|---|---|
 | 01 | [Lab 01: Hosting Static Website in Azure](./lab-01-static-website/README.md) | Storage Account, Blob Storage, Static Website Hosting | ✅ Complete |
 | 02 | [Lab 02: Secure 2-Tier Web Application](./lab-02-secure-2-tier-web-application/README.md) | Azure VNets, Subnets, NSGs, Ubuntu VMs, SSH, Networking | ✅ Complete |
 | 03 | [Lab 03: Modernizing to PaaS & Securing Secrets](./lab-03-paas-keyvault-secrets/README.md) | Azure SQL Database, Key Vault, Managed Identity, RBAC, Azure Monitor | ✅ Complete |
-| 04 | Coming Soon | — | 🔜 |
-| 05 | Coming Soon | — | 🔜 |
-| Bonus 01 | [Network Security & Traffic Analysis](./bonus-lab-01-Network-Security-%26-Traffic-Analysis/README.md) | Azure Firewall, VNets, NSGs, Route Tables, Network Watcher, Log Analytics, Terraform, KQL | ✅ Complete |
-
-
-> This table will be updated as each lab is completed.
+| 04 | Coming Soon | Azure Load Balancer, Availability Sets, High Availability | 🔜 |
+| 05 | Coming Soon | Azure Bastion, Private Endpoints, Zero Trust Networking | 🔜 |
 
 ---
 
-## Lab Documentation Format
+# Bonus Labs
 
-Each lab will follow a consistent structure:
+| # | Bonus Lab | Technologies Used | Status |
+|---|---|---|---|
+| Bonus 01 | [Network Security & Traffic Analysis](./bonus-lab-01-Network-Security-%26-Traffic-Analysis/README.md) | Azure Firewall, VNets, NSGs, Route Tables, Network Watcher, Log Analytics, Terraform, KQL | ✅ Complete |
+| Bonus 02 | Coming Soon | Terraform, Azure Policy, Governance | 🔜 |
+| Bonus 03 | Coming Soon | Sentinel, SIEM, Threat Detection | 🔜 |
+| Bonus 04 | Coming Soon | Azure DevOps CI/CD Pipelines | 🔜 |
+
+> This repository will continue expanding as additional labs, bonus projects, and cloud engineering exercises are completed.
+
+---
+
+# Lab Documentation Format
+
+Each lab follows a structured documentation format:
 
 - Objective
+- Architecture overview
 - Azure services used
-- Architecture / setup overview
-- Configuration steps
-- Validation and testing
+- Deployment/configuration steps
+- Validation/testing
 - Troubleshooting notes
 - Lessons learned
-- Screenshots where applicable
+- Screenshots and evidence
+- Security considerations
 
 ---
 
-## Skills Being Built
+# Skills Being Built
 
 | Category | Topics |
 |---|---|
-| **Cloud Infrastructure** | Resource Groups, Storage Accounts, PaaS, Static Website Hosting |
-| **Identity & Access** | Microsoft Entra ID, IAM, Role-Based Access Control |
-| **Networking** | Virtual Networks, DNS, Load Balancing |
-| **Automation** | PowerShell, Azure CLI, Infrastructure as Code |
-| **Security** | Secure configuration, least privilege, Key Vault, Microsoft Defender for Cloud |
+| **Cloud Infrastructure** | Resource Groups, VNets, Storage Accounts, Azure SQL, PaaS |
+| **Networking** | Subnets, NSGs, Route Tables, VNet Peering, Azure Firewall |
+| **Security** | Key Vault, RBAC, Least Privilege, Managed Identity |
+| **Monitoring & Observability** | Azure Monitor, Log Analytics, KQL, Packet Capture |
+| **Automation & IaC** | Terraform, Azure CLI, PowerShell |
+| **Systems Administration** | Linux VMs, SSH, Connectivity Validation |
 
 ---
 
-## Professional Background
+# Professional Background
 
 My professional experience includes:
 
 - Endpoint support and lifecycle management
-- Microsoft 365 and Windows support
-- Active Directory and Intune-related workflows
-- Enterprise ticketing and documentation
-- Field infrastructure support
-- Hardware deployments and device refreshes
-- AV and meeting room technology support
-- Technical leadership and escalation support
+- Microsoft 365 administration
+- Active Directory and Entra ID support
+- Intune-related workflows
+- Enterprise ticketing and escalation support
+- Infrastructure troubleshooting
+- Hardware deployments and refresh projects
+- Networking and field infrastructure support
+- AV / conference room technology support
+- Technical leadership and coordination
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
 
-**Professional Tools:**
+## Professional Tools
 
 Microsoft 365 · Microsoft Intune · Microsoft Entra ID · Active Directory · ServiceNow · SCCM · BeyondTrust · Nexthink · Kaseya · PowerShell
 
-**Lab Tools:**
+## Lab & Cloud Tools
 
-Azure Portal · Azure CLI · PowerShell · GitHub · Markdown
+Azure Portal · Azure CLI · Terraform · PowerShell · GitHub · Ubuntu Linux · KQL · Markdown
 
 ---
 
-## Certifications & Training
+# Certifications & Training
 
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
 - eJPT Junior Penetration Tester
 - Apple Certified Mac Technician
-- Google Operating Systems and You: Becoming a Power User
+- Google IT Support / Power User Training
 
 ---
 
-## Connect
+# Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-D'Vonte%20Harris-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d-vonte-harris-598b4b86)
 
@@ -113,6 +151,6 @@ Azure Portal · Azure CLI · PowerShell · GitHub · Markdown
 
 ---
 
-> This repository is an active learning portfolio. Labs will be improved over time as I build, document, and refine each project.
+> This repository is an active cloud engineering learning portfolio. Labs will continue evolving as I build, troubleshoot, document, and refine real-world Azure environments.
 
 Built in public. Learning out loud.
