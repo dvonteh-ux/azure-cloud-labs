@@ -56,7 +56,7 @@ It is a public portfolio of practical cloud engineering work.
 | 01 | [Lab 01: Hosting Static Website in Azure](./lab-01-static-website/README.md) | Storage Account, Blob Storage, Static Website Hosting | ✅ Complete |
 | 02 | [Lab 02: Secure 2-Tier Web Application](./lab-02-secure-2-tier-web-application/README.md) | Azure VNets, Subnets, NSGs, Ubuntu VMs, SSH, Networking | ✅ Complete |
 | 03 | [Lab 03: Modernizing to PaaS & Securing Secrets](./lab-03-paas-keyvault-secrets/README.md) | Azure SQL Database, Key Vault, Managed Identity, RBAC, Azure Monitor | ✅ Complete |
-| 04 | Coming Soon | Azure Load Balancer, Availability Sets, High Availability | 🔜 |
+| 04 | [Lab 04: Infrastructure as Code with Terraform](./lab-04-infrastructure-as-code-terraform/README.md) | Terraform, Azure VNets, Subnets, NSGs, Infrastructure-as-Code | ✅ Complete |
 | 05 | Coming Soon | Azure Bastion, Private Endpoints, Zero Trust Networking | 🔜 |
 
 ---
