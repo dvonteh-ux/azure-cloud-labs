@@ -2,7 +2,7 @@
 
 ![Azure](https://img.shields.io/badge/Microsoft-Azure-0078d4?style=flat&logo=microsoftazure&logoColor=white)
 ![Status](https://img.shields.io/badge/Series-Active-blue?style=flat)
-![Labs](https://img.shields.io/badge/Labs%20Completed-4-brightgreen?style=flat)
+![Labs](https://img.shields.io/badge/Labs%20Completed-5-brightgreen?style=flat)
 ![Bonus Labs](https://img.shields.io/badge/Bonus%20Labs-1-orange?style=flat)
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
 
@@ -57,8 +57,7 @@ It is a public portfolio of practical cloud engineering work.
 | 02 | [Lab 02: Secure 2-Tier Web Application](./lab-02-secure-2-tier-web-application/README.md) | Azure VNets, Subnets, NSGs, Ubuntu VMs, SSH, Networking | ✅ Complete |
 | 03 | [Lab 03: Modernizing to PaaS & Securing Secrets](./lab-03-paas-keyvault-secrets/README.md) | Azure SQL Database, Key Vault, Managed Identity, RBAC, Azure Monitor | ✅ Complete |
 | 04 | [Lab 04: Infrastructure as Code with Terraform](./lab-04-infrastructure-as-code-terraform/README.md) | Terraform, Azure VNets, Subnets, NSGs, Infrastructure-as-Code | ✅ Complete |
-| 05 | Coming Soon | Azure Bastion, Private Endpoints, Zero Trust Networking | 🔜 |
-
+| 05 | Lab 05: Implementing Governance & Security Hardening | Microsoft Entra ID, RBAC, Azure Policy, Cost Management, Budgets | ✅ Complete |
 ---
 
 # Bonus Labs
